@@ -1,0 +1,37 @@
+body{
+    background-color:darkorange;
+    color: white;
+    margin-top: 25px;
+}
+.header{
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    font-size: 50px;
+}
+h4{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+h3{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 40px;
+}
+.form-control{
+    width: 500px;
+    height: 30px;
+    border-radius: 30px;
+    border-color: white;   
+}
+#h5{
+    font-size: 45px;
+    font-family: 'Patrick Hand', cursive;
+}
+#Login_Button{
+background-color:maroon;
+font-size: 20px;
+width: 300px;
+height: 42px;
+border-radius: 30px;
+color:white;
+font-family: 'Patrick Hand', cursive;
+}
